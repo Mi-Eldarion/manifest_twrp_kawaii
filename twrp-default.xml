@@ -9,7 +9,7 @@
             review="https://review.lineageos.org"/>
 
     <remote  name="mi-eldarion"
-           fetch="https://github.com/Mi-Eldarion"
+           fetch="https://github.com/Mi-Eldarion"/>
 
     <remote name="github"
             fetch="https://github.com"/>
