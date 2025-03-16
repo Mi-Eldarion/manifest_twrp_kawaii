@@ -240,7 +240,6 @@
     <remove-project name="platform/external/libgsm"/>
     <remove-project name="platform/external/libhevc"/>
     <remove-project name="platform/external/libiio"  />
-    <remove-project name="platform/external/libjpeg-turbo"/>
     <remove-project name="platform/external/libkmsxx"  />
     <remove-project name="platform/external/libldac"/>
     <remove-project name="platform/external/libmpeg2"/>
